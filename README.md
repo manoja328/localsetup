@@ -1,2 +1,2 @@
 # localsetup
-bash vim settings etc
+my bash vim settings etc
